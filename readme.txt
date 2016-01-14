@@ -1,6 +1,4 @@
-2016年1月14日：
-这是我的第一个WebApp
-也是第一次使用Git
-2016年1月14日：
-再次修改这个文件。
-这一行内容需要回退
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes.
