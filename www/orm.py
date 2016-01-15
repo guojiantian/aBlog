@@ -85,10 +85,3 @@ class Model(dict, metaclass=ModelMetaclass):
         return value
 
 
-if __name__ == '__main__':
-    mo = Model({'bob':80, 'alice':90})
-    print(mo['bob'])
-    print(mo.bob)
-
-
-
