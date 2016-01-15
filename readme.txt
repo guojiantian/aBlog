@@ -7,3 +7,4 @@ Git tracks changes of files.
 work directory -------------> statged -----------------> tracked
                  git checkout -- file        git reset commit-id
                                  git chekout -- file
+create a new branch is  quick.
