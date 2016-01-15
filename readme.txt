@@ -8,4 +8,8 @@ work directory -------------> statged -----------------> tracked
                  git checkout -- file        git reset commit-id
                                  git chekout -- file
 create a new branch is  quick.
+<<<<<<< HEAD
 master modifying
+=======
+something redundant
+>>>>>>> dev
